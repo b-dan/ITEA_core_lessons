@@ -1,0 +1,299 @@
+Microsoft Windows [Version 10.0.17763.1158]
+(c) Корпорация Майкрософт (Microsoft Corporation), 2018. Все права защищены.
+
+C:\Users\saganenk>netstat -a
+
+Активные подключения
+
+  Имя    Локальный адрес        Внешний адрес          Состояние
+  TCP    0.0.0.0:135            kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:445            kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:2701           kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:3389           kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:5040           kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:5985           kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:10050          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:26500          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:26501          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:47001          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49664          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49665          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49666          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49667          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49668          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49669          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49671          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49672          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49675          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:52828          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:52829          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:56286          kho-2452-nb:0          LISTENING
+  TCP    127.0.0.1:7776         kho-2452-nb:0          LISTENING
+  TCP    127.0.0.1:49670        kho-2452-nb:0          LISTENING
+  TCP    127.0.0.1:49673        kho-2452-nb:49674      ESTABLISHED
+  TCP    127.0.0.1:49674        kho-2452-nb:49673      ESTABLISHED
+  TCP    127.0.0.1:49678        kho-2452-nb:60014      ESTABLISHED
+  TCP    127.0.0.1:49679        kho-2452-nb:60012      ESTABLISHED
+  TCP    127.0.0.1:49687        kho-2452-nb:60010      ESTABLISHED
+  TCP    127.0.0.1:49688        kho-2452-nb:62522      ESTABLISHED
+  TCP    127.0.0.1:60010        kho-2452-nb:0          LISTENING
+  TCP    127.0.0.1:60010        kho-2452-nb:49687      ESTABLISHED
+  TCP    127.0.0.1:60012        kho-2452-nb:0          LISTENING
+  TCP    127.0.0.1:60012        kho-2452-nb:49679      ESTABLISHED
+  TCP    127.0.0.1:60014        kho-2452-nb:0          LISTENING
+  TCP    127.0.0.1:60014        kho-2452-nb:49678      ESTABLISHED
+  TCP    127.0.0.1:62522        kho-2452-nb:0          LISTENING
+  TCP    127.0.0.1:62522        kho-2452-nb:49688      ESTABLISHED
+  TCP    127.0.0.1:65427        kho-2452-nb:0          LISTENING
+  TCP    192.168.0.106:139      kho-2452-nb:0          LISTENING
+  TCP    192.168.0.106:53989    sf:https               ESTABLISHED
+  TCP    192.168.0.106:56538    40.67.251.132:https    ESTABLISHED
+  TCP    192.168.0.106:57059    67.26.83.254:http      ESTABLISHED
+  TCP    192.168.32.153:139     kho-2452-nb:0          LISTENING
+  TCP    192.168.32.153:2701    kho-pshenin-nb:49246   ESTABLISHED
+  TCP    192.168.32.153:56286   10.68.4.235:53541      ESTABLISHED
+  TCP    192.168.32.153:56287   10.68.4.235:50070      ESTABLISHED
+  TCP    192.168.32.153:56311   DC2-SCCM-001-VS:10123  ESTABLISHED
+  TCP    192.168.32.153:56843   DC1-TMGP-001-VS:3128   ESTABLISHED
+  TCP    192.168.32.153:56953   KHO-ARCS-011-VS:5985   ESTABLISHED
+  TCP    192.168.32.153:57042   spwebapi:https         TIME_WAIT
+  TCP    192.168.32.153:57044   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57045   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57047   DC2-SCCM-001-VS:https  TIME_WAIT
+  TCP    192.168.32.153:57048   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57050   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57051   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57052   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57053   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57055   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57056   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57057   DC1-DC-002-VS:epmap    TIME_WAIT
+  TCP    192.168.32.153:57058   DC1-DC-002-VS:50119    TIME_WAIT
+  TCP    192.168.32.153:57060   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57061   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57062   DC1-TMGP-001-VS:3128   ESTABLISHED
+  TCP    192.168.32.153:57063   DC1-DC-002-VS:epmap    TIME_WAIT
+  TCP    192.168.32.153:57064   DC1-DC-002-VS:50119    TIME_WAIT
+  TCP    192.168.32.153:57092   DC1-DC-002-VS:epmap    ESTABLISHED
+  TCP    192.168.32.153:57093   DC1-DC-002-VS:50119    ESTABLISHED
+  TCP    192.168.32.153:57095   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57096   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57097   DC1-ZAB-001-VS:10051   ESTABLISHED
+  TCP    192.168.32.153:57098   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57099   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57100   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57101   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57102   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57103   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57104   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    [::]:135               kho-2452-nb:0          LISTENING
+  TCP    [::]:445               kho-2452-nb:0          LISTENING
+  TCP    [::]:2701              kho-2452-nb:0          LISTENING
+  TCP    [::]:3389              kho-2452-nb:0          LISTENING
+  TCP    [::]:5985              kho-2452-nb:0          LISTENING
+  TCP    [::]:10050             kho-2452-nb:0          LISTENING
+  TCP    [::]:47001             kho-2452-nb:0          LISTENING
+  TCP    [::]:49664             kho-2452-nb:0          LISTENING
+  TCP    [::]:49665             kho-2452-nb:0          LISTENING
+  TCP    [::]:49666             kho-2452-nb:0          LISTENING
+  TCP    [::]:49667             kho-2452-nb:0          LISTENING
+  TCP    [::]:49668             kho-2452-nb:0          LISTENING
+  TCP    [::]:49669             kho-2452-nb:0          LISTENING
+  TCP    [::]:49671             kho-2452-nb:0          LISTENING
+  TCP    [::]:49672             kho-2452-nb:0          LISTENING
+  TCP    [::]:49675             kho-2452-nb:0          LISTENING
+  UDP    0.0.0.0:123            *:*
+  UDP    0.0.0.0:500            *:*
+  UDP    0.0.0.0:3389           *:*
+  UDP    0.0.0.0:4500           *:*
+  UDP    0.0.0.0:5050           *:*
+  UDP    0.0.0.0:5353           *:*
+  UDP    0.0.0.0:5355           *:*
+  UDP    0.0.0.0:26500          *:*
+  UDP    0.0.0.0:49445          *:*
+  UDP    0.0.0.0:52828          *:*
+  UDP    0.0.0.0:58613          *:*
+  UDP    0.0.0.0:65001          *:*
+  UDP    0.0.0.0:65002          *:*
+  UDP    0.0.0.0:65003          *:*
+  UDP    0.0.0.0:65004          *:*
+  UDP    127.0.0.1:1900         *:*
+  UDP    127.0.0.1:51955        *:*
+  UDP    127.0.0.1:52076        *:*
+  UDP    127.0.0.1:52562        *:*
+  UDP    127.0.0.1:52976        *:*
+  UDP    127.0.0.1:56325        *:*
+  UDP    127.0.0.1:58337        *:*
+  UDP    127.0.0.1:58617        *:*
+  UDP    127.0.0.1:58750        *:*
+  UDP    127.0.0.1:59482        *:*
+  UDP    127.0.0.1:59486        *:*
+  UDP    127.0.0.1:59580        *:*
+  UDP    127.0.0.1:60126        *:*
+  UDP    127.0.0.1:60242        *:*
+  UDP    127.0.0.1:60243        *:*
+  UDP    127.0.0.1:61152        *:*
+  UDP    127.0.0.1:64440        *:*
+  UDP    192.168.0.106:137      *:*
+  UDP    192.168.0.106:138      *:*
+  UDP    192.168.0.106:1900     *:*
+  UDP    192.168.0.106:2177     *:*
+  UDP    192.168.0.106:58616    *:*
+  UDP    192.168.32.153:137     *:*
+  UDP    192.168.32.153:138     *:*
+  UDP    192.168.32.153:1900    *:*
+  UDP    192.168.32.153:2177    *:*
+  UDP    192.168.32.153:58615   *:*
+  UDP    [::]:123               *:*
+  UDP    [::]:500               *:*
+  UDP    [::]:3389              *:*
+  UDP    [::]:4500              *:*
+  UDP    [::1]:1900             *:*
+  UDP    [::1]:58614            *:*
+
+C:\Users\saganenk>netstat -a
+
+Активные подключения
+
+  Имя    Локальный адрес        Внешний адрес          Состояние
+  TCP    0.0.0.0:135            kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:445            kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:2701           kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:3389           kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:5040           kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:5985           kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:10050          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:26500          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:26501          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:47001          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49664          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49665          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49666          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49667          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49668          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49669          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49671          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49672          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:49675          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:52828          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:52829          kho-2452-nb:0          LISTENING
+  TCP    0.0.0.0:56286          kho-2452-nb:0          LISTENING
+  TCP    127.0.0.1:7776         kho-2452-nb:0          LISTENING
+  TCP    127.0.0.1:49670        kho-2452-nb:0          LISTENING
+  TCP    127.0.0.1:49673        kho-2452-nb:49674      ESTABLISHED
+  TCP    127.0.0.1:49674        kho-2452-nb:49673      ESTABLISHED
+  TCP    127.0.0.1:49678        kho-2452-nb:60014      ESTABLISHED
+  TCP    127.0.0.1:49679        kho-2452-nb:60012      ESTABLISHED
+  TCP    127.0.0.1:49687        kho-2452-nb:60010      ESTABLISHED
+  TCP    127.0.0.1:49688        kho-2452-nb:62522      ESTABLISHED
+  TCP    127.0.0.1:60010        kho-2452-nb:0          LISTENING
+  TCP    127.0.0.1:60010        kho-2452-nb:49687      ESTABLISHED
+  TCP    127.0.0.1:60012        kho-2452-nb:0          LISTENING
+  TCP    127.0.0.1:60012        kho-2452-nb:49679      ESTABLISHED
+  TCP    127.0.0.1:60014        kho-2452-nb:0          LISTENING
+  TCP    127.0.0.1:60014        kho-2452-nb:49678      ESTABLISHED
+  TCP    127.0.0.1:62522        kho-2452-nb:0          LISTENING
+  TCP    127.0.0.1:62522        kho-2452-nb:49688      ESTABLISHED
+  TCP    127.0.0.1:65427        kho-2452-nb:0          LISTENING
+  TCP    192.168.0.106:139      kho-2452-nb:0          LISTENING
+  TCP    192.168.0.106:53989    sf:https               ESTABLISHED
+  TCP    192.168.0.106:56538    40.67.251.132:https    ESTABLISHED
+  TCP    192.168.32.153:139     kho-2452-nb:0          LISTENING
+  TCP    192.168.32.153:2701    kho-pshenin-nb:49246   ESTABLISHED
+  TCP    192.168.32.153:56286   10.68.4.235:53541      ESTABLISHED
+  TCP    192.168.32.153:56287   10.68.4.235:50070      ESTABLISHED
+  TCP    192.168.32.153:56311   DC2-SCCM-001-VS:10123  ESTABLISHED
+  TCP    192.168.32.153:56843   DC1-TMGP-001-VS:3128   ESTABLISHED
+  TCP    192.168.32.153:57125   KHO-ARCS-011-VS:5985   ESTABLISHED
+  TCP    192.168.32.153:57147   imap:https             ESTABLISHED
+  TCP    192.168.32.153:57150   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57151   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57153   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57154   imap:https             ESTABLISHED
+  TCP    192.168.32.153:57155   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57156   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57158   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57159   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57160   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57162   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57163   DC1-TMGP-001-VS:3128   ESTABLISHED
+  TCP    192.168.32.153:57164   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57166   DC1-TMGP-001-VS:3128   ESTABLISHED
+  TCP    192.168.32.153:57167   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57168   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57169   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57170   DC1-DC-002-VS:epmap    TIME_WAIT
+  TCP    192.168.32.153:57172   DC1-DC-002-VS:50119    ESTABLISHED
+  TCP    192.168.32.153:57173   DC2-DC-001-SVR:ldap    ESTABLISHED
+  TCP    192.168.32.153:57174   DC1-TMGP-001-VS:3128   TIME_WAIT
+  TCP    192.168.32.153:57175   imap:https             ESTABLISHED
+  TCP    192.168.32.153:57176   imap:https             ESTABLISHED
+  TCP    192.168.32.153:57177   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    192.168.32.153:57178   KHO-ARCS-011-VS:5985   TIME_WAIT
+  TCP    [::]:135               kho-2452-nb:0          LISTENING
+  TCP    [::]:445               kho-2452-nb:0          LISTENING
+  TCP    [::]:2701              kho-2452-nb:0          LISTENING
+  TCP    [::]:3389              kho-2452-nb:0          LISTENING
+  TCP    [::]:5985              kho-2452-nb:0          LISTENING
+  TCP    [::]:10050             kho-2452-nb:0          LISTENING
+  TCP    [::]:47001             kho-2452-nb:0          LISTENING
+  TCP    [::]:49664             kho-2452-nb:0          LISTENING
+  TCP    [::]:49665             kho-2452-nb:0          LISTENING
+  TCP    [::]:49666             kho-2452-nb:0          LISTENING
+  TCP    [::]:49667             kho-2452-nb:0          LISTENING
+  TCP    [::]:49668             kho-2452-nb:0          LISTENING
+  TCP    [::]:49669             kho-2452-nb:0          LISTENING
+  TCP    [::]:49671             kho-2452-nb:0          LISTENING
+  TCP    [::]:49672             kho-2452-nb:0          LISTENING
+  TCP    [::]:49675             kho-2452-nb:0          LISTENING
+  UDP    0.0.0.0:123            *:*
+  UDP    0.0.0.0:500            *:*
+  UDP    0.0.0.0:3389           *:*
+  UDP    0.0.0.0:4500           *:*
+  UDP    0.0.0.0:5050           *:*
+  UDP    0.0.0.0:5353           *:*
+  UDP    0.0.0.0:5355           *:*
+  UDP    0.0.0.0:26500          *:*
+  UDP    0.0.0.0:49445          *:*
+  UDP    0.0.0.0:52828          *:*
+  UDP    0.0.0.0:58613          *:*
+  UDP    0.0.0.0:65001          *:*
+  UDP    0.0.0.0:65002          *:*
+  UDP    0.0.0.0:65003          *:*
+  UDP    0.0.0.0:65004          *:*
+  UDP    127.0.0.1:1900         *:*
+  UDP    127.0.0.1:51286        *:*
+  UDP    127.0.0.1:51955        *:*
+  UDP    127.0.0.1:52076        *:*
+  UDP    127.0.0.1:52562        *:*
+  UDP    127.0.0.1:52976        *:*
+  UDP    127.0.0.1:56325        *:*
+  UDP    127.0.0.1:58337        *:*
+  UDP    127.0.0.1:58617        *:*
+  UDP    127.0.0.1:58750        *:*
+  UDP    127.0.0.1:59482        *:*
+  UDP    127.0.0.1:59486        *:*
+  UDP    127.0.0.1:59580        *:*
+  UDP    127.0.0.1:60126        *:*
+  UDP    127.0.0.1:60242        *:*
+  UDP    127.0.0.1:60243        *:*
+  UDP    127.0.0.1:61152        *:*
+  UDP    127.0.0.1:64440        *:*
+  UDP    192.168.0.106:137      *:*
+  UDP    192.168.0.106:138      *:*
+  UDP    192.168.0.106:1900     *:*
+  UDP    192.168.0.106:2177     *:*
+  UDP    192.168.0.106:58616    *:*
+  UDP    192.168.32.153:137     *:*
+  UDP    192.168.32.153:138     *:*
+  UDP    192.168.32.153:1900    *:*
+  UDP    192.168.32.153:2177    *:*
+  UDP    192.168.32.153:58615   *:*
+  UDP    [::]:123               *:*
+  UDP    [::]:500               *:*
+  UDP    [::]:3389              *:*
+  UDP    [::]:4500              *:*
+  UDP    [::1]:1900             *:*
+  UDP    [::1]:58614            *:*
+
+C:\Users\saganenk>
